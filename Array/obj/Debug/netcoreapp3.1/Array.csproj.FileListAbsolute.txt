@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\dell\source\repos\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\dell\Lectures\Day3\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Day3\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Day3\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Day3\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\dell\Lectures\Day3\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
